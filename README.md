@@ -24,7 +24,8 @@ Key Innovation
 The system uses quantum kernel methods to capture complex nonlinear relationships in agricultural data that classical models may miss, while maintaining strict chronological validation and data integrity standards.
 
 
-Prerequisites
+Prerequisites;
+
 -Google colab (Classical modelling and data cleaning).
 
 -Qbraid account (for quantum simulations).
