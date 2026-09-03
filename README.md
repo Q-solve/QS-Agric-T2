@@ -42,6 +42,8 @@ The system uses quantum kernel methods to capture complex nonlinear relationship
 
 -Qbraid account (for quantum simulations).
 
+-Google classroom.
+
 ## INSTALLATION GUIDE;
 
 # Clone the repository
