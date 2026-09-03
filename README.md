@@ -19,6 +19,14 @@ Qulima combines classical machine learning baselines (random forest, Cat boost, 
 
 -Establish reproducible, leakage-free pipelines for agricultural forecasting.
 
+## Repository Structure
+The repository is organized as follows:
+
+raw data/ – Raw and intermediate maize statistics generated during internal processing
+docs/ – Documentation related to the dataset
+notebooks/ – Data generated during data processing and analysis.
+Quantum/ - The quantum modelling obtained results.
+
 Key Innovation
 
 The system uses quantum kernel methods to capture complex nonlinear relationships in agricultural data that classical models may miss, while maintaining strict chronological validation and data integrity standards.
@@ -57,9 +65,13 @@ Usage
 Download and audit raw data — run the scripts in src/data_download/ to pull maize production/harvested-area records and CHIRPS rainfall, then log the download in docs/provenance_log.md.
 
 Build the modelling table — run src/preprocessing/build_county_year_table.py (or the equivalent notebook) to join sources into the documented county-year table in data/processed/, applying only pre-30-June features.
+
 Run the classical baseline — notebooks/01_classical_baseline.ipynb fits the historical mean/trend baseline and the competitive classical model (e.g. random forest), using the chronological train/validation/test split.
+
 Run the quantum/hybrid model — notebooks/02_quantum_model.ipynb runs the quantum-kernel or variational regression model on the qBraid simulator, using the same split and feature set.
+
 Compare results — notebooks/03_evaluation.ipynb produces the classical-vs-quantum results table, the actual-vs-predicted plot, and county-level error breakdown, saved to results/trans_nzoia_uasin_gishu/.
+
 Read the write-up — docs/limitations.md documents assumptions, uncertainty, and the scalability/adoption discussion required for the final presentation.
 Contact
     Role	         Name	           Roles
