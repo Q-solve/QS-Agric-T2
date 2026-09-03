@@ -66,7 +66,7 @@ Contact
 1. Lead mentor -Kisilu Wambua. (Provides guidance on problem understanding, method selection, and technical review)
 2. Data Lead-	Avery Inyangala. (manages sourcing, cleaning, joins, provenance and reproducibility.)	
 3. Classical modelling lead	-Bruce Kinyanjui (builds and validates the baseline)	
-4. Quantum lead - Tanei Marima. (owns the formulation, implementation and resource reporting.)
+4. Quantum lead - Mona Tanei. (owns the formulation, implementation and resource reporting.)
 5. Evaluation & presentation lead - Adika Awino. ( coordinates comparison, visualisation, documentation and
 the final demonstration.)
 6. Problem and agriculture lead-Kennedy Mutugi.	( keeps the work grounded in users, local constraints and SDG 2
@@ -78,5 +78,5 @@ Issues with this repository: open a GitHub Issue in this repo and tag the releva
 Competition-level questions (scoring, official dataset releases, regional allocation changes): route through the lead mentor to the organising committee.
 
 Additional resources
-
+https://github.com/HarvestStat/HarvestStat-Africa/tree/main
 
