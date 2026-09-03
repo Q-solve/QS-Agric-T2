@@ -23,9 +23,12 @@ Qulima combines classical machine learning baselines (random forest, Cat boost, 
 ## Repository Structure
 The repository is organized as follows:
 
-raw data/ – Raw and intermediate maize statistics generated during internal processing
-docs/ – Documentation related to the dataset
+raw data/ – Raw and intermediate maize statistics generated during internal processing.
+
+docs/ – Documentation related to the dataset.
+
 notebooks/ – Data generated during data processing and analysis.
+
 Quantum/ - The quantum modelling obtained results.
 
 ## Key Innovation
