@@ -86,9 +86,9 @@ the final demonstration.)
 6. Problem and agriculture lead-Kennedy Mutugi.	( keeps the work grounded in users, local constraints and SDG 2
 outcomes.)
 
-# Team coordination:post updates, questions, and blockers in the team's assigned Google Classroom rather than only in chat, so there's a record for the contribution log.
+Team coordination:post updates, questions, and blockers in the team's assigned Google Classroom rather than only in chat, so there's a record for the contribution log.
 
-# Issues with this repository: open a GitHub Issue in this repo and tag the relevant lead from the table above.
+Issues with this repository: open a GitHub Issue in this repo and tag the relevant lead from the table above.
 Competition-level questions (scoring, official dataset releases, regional allocation changes): route through the lead mentor to the organising committee.
 
 Additional resources
